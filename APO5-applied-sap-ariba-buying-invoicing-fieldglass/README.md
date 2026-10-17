@@ -19,3 +19,17 @@ Use TOGAF, BIZBOK, BABOK, DAMA-DMBOK, applicable ISO standards, and COBIT as rel
 ## Learning artifacts
 
 This folder is the home for future sessions, architecture models, applied exercises, case-study deliverables, and assessments. Content will be added incrementally.
+
+## Five-level Super Sprint 20™ learning pathway
+
+Each level contains ten two-hour sessions, an OmniWorks simulation, required artifacts, interactive learning missions, and assessment criteria.
+
+| Level | Sprint | Hours | Folder |
+|---|---|---:|---|
+| 1 | Pre-Foundation | 20 | [01-pre-foundation](01-pre-foundation/README.md) |
+| 2 | Foundation | 20 | [02-foundation](02-foundation/README.md) |
+| 3 | Essentials | 20 | [03-essentials](03-essentials/README.md) |
+| 4 | Advanced | 20 | [04-advanced](04-advanced/README.md) |
+| 5 | Ultimate | 20 | [05-ultimate](05-ultimate/README.md) |
+
+**Total:** 100 guided learning hours across 50 sessions. The learning design covers SAP Ariba Buying & Invoicing alongside SAP Fieldglass extended workforce and services procurement, with distinct application responsibilities.
