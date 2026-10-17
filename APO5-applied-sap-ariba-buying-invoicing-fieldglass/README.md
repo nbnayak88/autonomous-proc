@@ -33,3 +33,7 @@ Each level contains ten two-hour sessions, an OmniWorks simulation, required art
 | 5 | Ultimate | 20 | [05-ultimate](05-ultimate/README.md) |
 
 **Total:** 100 guided learning hours across 50 sessions. The learning design covers SAP Ariba Buying & Invoicing alongside SAP Fieldglass extended workforce and services procurement, with distinct application responsibilities.
+
+## SAP Activate Fieldglass dashboard
+
+- [SAP Activate Dashboard — 21-Day Fieldglass Activities](sap-activate-fieldglass-dashboard/README.md): snapshot of 55 Notion activity records, including the original phases, days, priorities, statuses, deliverables, notes, and links back to individual Notion records. This is separate from the five-level sprint curriculum.
