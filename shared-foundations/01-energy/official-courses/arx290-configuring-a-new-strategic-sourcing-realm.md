@@ -27,3 +27,9 @@ Use fictional OmniVerse data. Define requirements, accountable roles, data owner
 ## Explore together
 
 Curious how these procurement decisions work in an energy enterprise? [Join a SuccessLabs Academy webinar](https://hub.successlabsacademy.com/web/checkout/694af8798dd872a219700dd3).
+
+## Additional official journey references — Contracts and Supplier Management
+
+- [Implementing SAP Ariba Supplier Management — Energy map](../../../learning-journeys/01-energy/implementing-sap-ariba-supplier-management.md)
+
+This existing primary record is reused; no duplicate course is created.
