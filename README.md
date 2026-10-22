@@ -21,3 +21,10 @@ Read the [Autonomous Procurement Gameboard Model](gameboard_model_autonomous_pro
 | SuperClass | Enterprise strategy and advanced judgement | Autonomous Procurement Strategy SuperClass |
 
 Choose the format according to learner intent, depth, and expected output. A format is not a curriculum by itself; combine formats deliberately and assess each one proportionately.
+
+## Energy — official SAP learning maps
+
+- [Implementing SAP Ariba Procurement — all 18 courses](APO5-applied-sap-ariba-buying-invoicing-fieldglass/01-energy/README.md): primary homes, official source links, Energy exercises and cross-references.
+- [SAP Ariba Sourcing — Energy sprints](APS1-applied-sap-ariba-sourcing/01-energy/README.md).
+
+Maintain one primary learning record per official course. Shared references use links rather than duplicated course content.
