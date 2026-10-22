@@ -19,3 +19,7 @@ Use TOGAF, BIZBOK, BABOK, DAMA-DMBOK, applicable ISO standards, and COBIT as rel
 ## Learning artifacts
 
 This folder is the home for future sessions, architecture models, applied exercises, case-study deliverables, and assessments. Content will be added incrementally.
+
+## Energy — official SAP course mapping
+
+[Open Energy integration learning](01-energy/README.md) for AR820 — SAP Ariba Integration: SAP Ariba Integration Points, linked from the 18-course SAP Ariba Procurement journey.
