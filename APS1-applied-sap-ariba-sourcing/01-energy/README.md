@@ -1,7 +1,7 @@
 # GICS01 — Energy | Applied SAP Ariba Sourcing
 
 **Program:** APS1 · Autonomous Procurement · SuccessLabs Academy  
-**Status:** Origin Story Sprint published · The Origin Story → Pre-Foundation  
+**Status:** Origin Story and Pre-Foundation Sprints published  
 **Case:** OmniVerse Energy Ltd. — fictional educational enterprise
 
 [All sectors](../README.md)
@@ -11,8 +11,9 @@
 | Order | Skill level | Markdown file |
 |---|---|---|
 | 00 | The Origin Story → Pre-Foundation | [Origin Story Sprint — Super Sprint 20™](00-the-origin-story-super-sprint-20.md) |
+| 01 | Pre-Foundation → Foundation | [Pre-Foundation Sprint — Super Sprint 20™](01-pre-foundation-super-sprint-20.md) |
 
-The Origin Story file preserves the supplied Markdown content unchanged. Further skill-level files will be added here as they are supplied.
+Both sprint files preserve the supplied Markdown content unchanged. Further skill-level files will be added here as they are supplied.
 
 ## Business context
 
