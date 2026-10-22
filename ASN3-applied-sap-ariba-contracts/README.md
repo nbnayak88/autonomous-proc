@@ -19,3 +19,12 @@ Use TOGAF, BIZBOK, BABOK, DAMA-DMBOK, applicable ISO standards, and COBIT as rel
 ## Learning artifacts
 
 This folder is the home for future sessions, architecture models, applied exercises, case-study deliverables, and assessments. Content will be added incrementally.
+
+## Energy — operational contract-compliance references
+
+| Official SAP course | Primary home |
+|---|---|
+| ARP300 — Contract Compliance Release | [APO5 Energy course record](../APO5-applied-sap-ariba-buying-invoicing-fieldglass/01-energy/official-courses/arp300-contract-compliance-release.md) |
+| ARP301 — Contract Compliance No Release | [APO5 Energy course record](../APO5-applied-sap-ariba-buying-invoicing-fieldglass/01-energy/official-courses/arp301-contract-compliance-no-release.md) |
+
+These courses configure/use Contract Compliance inside Buying and Invoicing. They are cross-references for contract execution, not duplicate SAP Ariba Contracts authoring courses. [Full Energy journey map](../APO5-applied-sap-ariba-buying-invoicing-fieldglass/01-energy/README.md).
