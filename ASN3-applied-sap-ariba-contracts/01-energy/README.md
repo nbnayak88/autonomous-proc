@@ -7,6 +7,7 @@
 
 | SAP code | Official course learning record | Time |
 |---|---|---|
+| ARS060 | [SAP Ariba Contracts Overview](official-courses/ars060-sap-ariba-contracts-overview.md) | 0h 56m |
 | ARS601 | [Contract Workspace Creation](official-courses/ars601-contract-workspace-creation.md) | 1h 25m |
 | ARS602 | [Contract Amendments](official-courses/ars602-contract-amendments.md) | 0h 31m |
 | ARS640 | [Authoring Contracts Documents](official-courses/ars640-authoring-contracts-documents.md) | 0h 41m* |
@@ -21,3 +22,7 @@ Follow the SAP prerequisites recorded in the complete journey map. Energy exampl
 ## Explore together
 
 Curious how these procurement decisions work in an energy enterprise? [Join a SuccessLabs Academy webinar](https://hub.successlabsacademy.com/web/checkout/694af8798dd872a219700dd3).
+
+## Complete Contracts implementation journey
+
+[All 11 courses, with shared reporting and administration](../../learning-journeys/01-energy/implementing-sap-ariba-contracts.md). Seven contract-specific records are maintained here; ARX104, ARX280, AR710 and ARS344 are linked from their shared homes. The existing discovery journey uses the same records.
