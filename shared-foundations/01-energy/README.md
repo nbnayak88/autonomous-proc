@@ -25,3 +25,15 @@ Curious how these procurement decisions work in an energy enterprise? [Join a Su
 | ARX290 | [Configuring a New Strategic Sourcing Realm](official-courses/arx290-configuring-a-new-strategic-sourcing-realm.md) | 2h 59m |
 
 ARX280 and ARX290 are referenced by [Implementing SAP Ariba Sourcing — 12 courses](../../learning-journeys/01-energy/implementing-sap-ariba-sourcing.md). The existing shared folder is retained pending later optimization. ARX290 is distinct from Buying & Invoicing realm configuration (ARP344).
+
+## Strategic Sourcing Suite implementation — three courses
+
+[Open the complete Energy journey mapping](../../learning-journeys/01-energy/configuring-sap-ariba-strategic-sourcing-suite.md).
+
+| SAP code | Primary Energy course record | Primary lab |
+|---|---|---|
+| ARQ300 | [Planning End to End Deployment of SAP Ariba Strategic Sourcing Suite](official-courses/arq300-planning-end-to-end-deployment-of-sap-ariba-strategic-sourcing-suite.md) | 05 Build / IIL |
+| ARQ302 | [Performing Advanced Field Configurations in the SAP Ariba Strategic Sourcing Suite Test Site](official-courses/arq302-performing-advanced-field-configurations-in-the-sap-ariba-strategic-sourcing-suite-test-site.md) | 05 Build / IIL |
+| ARQ303 | [Migrating SAP Ariba Strategic Sourcing Suite Configuration to the Production Site](official-courses/arq303-migrating-sap-ariba-strategic-sourcing-suite-configuration-to-the-production-site.md) | 06 Move / MEL |
+
+These are advanced suite implementation courses. The shared location is retained pending later folder optimization.
