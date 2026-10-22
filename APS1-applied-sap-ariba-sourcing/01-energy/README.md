@@ -88,3 +88,16 @@ After the first service-sourcing exercise, consider critical spare parts and ren
 ## Explore together
 
 Curious how these sourcing decisions connect to enterprise architecture? [Join a SuccessLabs Academy webinar](https://hub.successlabsacademy.com/web/checkout/694af8798dd872a219700dd3).
+
+## Official Guided Sourcing courses — Energy
+
+| SAP code | Primary learning record |
+|---|---|
+| ARS110 | [Creating a Full Project within SAP Ariba Guided Sourcing](official-courses/ars110-creating-a-full-project-within-sap-ariba-guided-sourcing.md) |
+| ARS111 | [Creating Sourcing Events within SAP Ariba Guided Sourcing](official-courses/ars111-creating-sourcing-events-within-sap-ariba-guided-sourcing.md) |
+| ARS112 | [Working with Pricing Tactics and Response Options within SAP Ariba Guided Sourcing](official-courses/ars112-working-with-pricing-tactics-and-response-options-within-sap-ariba-guided-sourcing.md) |
+| ARS113 | [Project Monitoring and Event Administration within SAP Ariba Guided Sourcing](official-courses/ars113-project-monitoring-and-event-administration-within-sap-ariba-guided-sourcing.md) |
+
+[Complete 15-course sourcing and contract journey](../../learning-journeys/01-energy/discovering-procurement-sourcing-contract-management.md) · [Shared procurement foundations and project templates](../../shared-foundations/01-energy/README.md) · [Ariba Contracts](../../ASN3-applied-sap-ariba-contracts/01-energy/README.md) · [S/4HANA sourcing](../../sap-cloud-erp-sourcing-procurement/01-energy/README.md).
+
+The supplied sprint files above remain unchanged. These official course records provide additional learning references, not replacement sprint content.
