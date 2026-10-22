@@ -37,3 +37,7 @@ Each level contains ten two-hour sessions, an OmniWorks simulation, required art
 ## SAP Activate Fieldglass dashboard
 
 - [SAP Activate Dashboard — 21-Day Fieldglass Activities](sap-activate-fieldglass-dashboard/README.md): snapshot of 55 Notion activity records, including the original phases, days, priorities, statuses, deliverables, notes, and links back to individual Notion records. This is separate from the five-level sprint curriculum.
+
+## Energy — official SAP Ariba Procurement courses
+
+[Open the 18-course Energy journey map](01-energy/README.md). Seventeen course records are maintained under APO5; AR820 is linked to its primary AIG2 integration record. This is separate from the existing OmniWorks/Fieldglass sprint curriculum.
