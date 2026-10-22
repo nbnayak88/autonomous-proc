@@ -17,3 +17,11 @@ Follow the SAP prerequisites recorded in the complete journey map. Energy exampl
 ## Explore together
 
 Curious how these procurement decisions work in an energy enterprise? [Join a SuccessLabs Academy webinar](https://hub.successlabsacademy.com/web/checkout/694af8798dd872a219700dd3).
+
+## Strategic Sourcing realm administration — additional course
+
+| SAP code | Primary Energy record | Official course time |
+|---|---|---|
+| ARX290 | [Configuring a New Strategic Sourcing Realm](official-courses/arx290-configuring-a-new-strategic-sourcing-realm.md) | 2h 59m |
+
+ARX280 and ARX290 are referenced by [Implementing SAP Ariba Sourcing — 12 courses](../../learning-journeys/01-energy/implementing-sap-ariba-sourcing.md). The existing shared folder is retained pending later optimization. ARX290 is distinct from Buying & Invoicing realm configuration (ARP344).
