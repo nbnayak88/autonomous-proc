@@ -19,3 +19,7 @@ Use TOGAF, BIZBOK, BABOK, DAMA-DMBOK, applicable ISO standards, and COBIT as rel
 ## Learning artifacts
 
 This folder is the home for future sessions, architecture models, applied exercises, case-study deliverables, and assessments. Content will be added incrementally.
+
+## Energy — native procurement reporting reference
+
+[ARP104 — SAP Ariba Procurement Reports](../APO5-applied-sap-ariba-buying-invoicing-fieldglass/01-energy/official-courses/arp104-sap-ariba-procurement-reports.md) is maintained under APO5 Energy. It covers native reporting in SAP Ariba Procurement; it does not teach Spend Control Tower or SAP Analytics Cloud implementation. Use this cross-link when comparing operational reports with enterprise spend analytics.
