@@ -32,3 +32,7 @@ Maintain one primary learning record per official course. Shared references use 
 ## Energy — sourcing and contract discovery
 
 [Discovering Procurement — all 15 sourcing and contract courses](learning-journeys/01-energy/discovering-procurement-sourcing-contract-management.md) maps four Guided Sourcing courses, six Ariba Contracts courses, three S/4HANA courses and two shared courses. Each course has one primary Energy record; other pathways cross-link it.
+
+## Energy — SAP Ariba Sourcing implementation
+
+[Implementing SAP Ariba Sourcing — all 12 courses](learning-journeys/01-energy/implementing-sap-ariba-sourcing.md): ten sourcing records and two shared-administration records, with existing courses reused across journeys. Existing folder optimization is deferred.
