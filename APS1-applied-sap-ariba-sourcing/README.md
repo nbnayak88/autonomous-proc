@@ -1,7 +1,7 @@
 # APS1 — Applied SAP Ariba Sourcing
 
 **Domain:** Procurement & Sourcing  
-**Industry case:** GICS03 Industrials — OmniWorks  
+**Industry case:** GICS01 Industrials — OmniVerse  
 **Program:** Autonomous Procurement | SuccessLabs Academy
 
 ## Series scope
