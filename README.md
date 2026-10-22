@@ -36,3 +36,7 @@ Maintain one primary learning record per official course. Shared references use 
 ## Energy — SAP Ariba Sourcing implementation
 
 [Implementing SAP Ariba Sourcing — all 12 courses](learning-journeys/01-energy/implementing-sap-ariba-sourcing.md): ten sourcing records and two shared-administration records, with existing courses reused across journeys. Existing folder optimization is deferred.
+
+## Energy — Strategic Sourcing Suite configuration
+
+[Configuring SAP Ariba Strategic Sourcing Suite — three courses](learning-journeys/01-energy/configuring-sap-ariba-strategic-sourcing-suite.md): deployment planning, advanced field configuration and production configuration-migration learning, maintained in the existing shared Energy area.
