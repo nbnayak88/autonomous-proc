@@ -31,3 +31,10 @@ Curious how these procurement decisions work in an energy enterprise? [Join a Su
 ## Additional official learning journey
 
 Also used by [Implementing SAP Ariba Sourcing — Energy journey map](../../../learning-journeys/01-energy/implementing-sap-ariba-sourcing.md). This is the same primary course record; its existing discovery-journey reference is preserved.
+
+## Additional official journey references — Contracts and Supplier Management
+
+- [Implementing SAP Ariba Contracts — Energy map](../../../learning-journeys/01-energy/implementing-sap-ariba-contracts.md)
+- [Implementing SAP Ariba Supplier Management — Energy map](../../../learning-journeys/01-energy/implementing-sap-ariba-supplier-management.md)
+
+This existing primary record is reused; no duplicate course is created.
