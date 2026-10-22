@@ -89,15 +89,25 @@ After the first service-sourcing exercise, consider critical spare parts and ren
 
 Curious how these sourcing decisions connect to enterprise architecture? [Join a SuccessLabs Academy webinar](https://hub.successlabsacademy.com/web/checkout/694af8798dd872a219700dd3).
 
-## Official Guided Sourcing courses — Energy
+## Official SAP Ariba Sourcing courses — Energy
 
-| SAP code | Primary learning record |
-|---|---|
-| ARS110 | [Creating a Full Project within SAP Ariba Guided Sourcing](official-courses/ars110-creating-a-full-project-within-sap-ariba-guided-sourcing.md) |
-| ARS111 | [Creating Sourcing Events within SAP Ariba Guided Sourcing](official-courses/ars111-creating-sourcing-events-within-sap-ariba-guided-sourcing.md) |
-| ARS112 | [Working with Pricing Tactics and Response Options within SAP Ariba Guided Sourcing](official-courses/ars112-working-with-pricing-tactics-and-response-options-within-sap-ariba-guided-sourcing.md) |
-| ARS113 | [Project Monitoring and Event Administration within SAP Ariba Guided Sourcing](official-courses/ars113-project-monitoring-and-event-administration-within-sap-ariba-guided-sourcing.md) |
+[Implementing SAP Ariba Sourcing — complete 12-course journey](../../learning-journeys/01-energy/implementing-sap-ariba-sourcing.md).
 
-[Complete 15-course sourcing and contract journey](../../learning-journeys/01-energy/discovering-procurement-sourcing-contract-management.md) · [Shared procurement foundations and project templates](../../shared-foundations/01-energy/README.md) · [Ariba Contracts](../../ASN3-applied-sap-ariba-contracts/01-energy/README.md) · [S/4HANA sourcing](../../sap-cloud-erp-sourcing-procurement/01-energy/README.md).
+| SAP code | Official course learning record | Primary home |
+|---|---|---|
+| ARS010 | [SAP Ariba Sourcing Overview](official-courses/ars010-sap-ariba-sourcing-overview.md) | APS1 · Sourcing |
+| ARS109 | [Navigating SAP Ariba Guided Sourcing Dashboards, Preferences and Documentation](official-courses/ars109-navigating-sap-ariba-guided-sourcing-dashboards-preferences-and-documentation.md) | APS1 · Sourcing |
+| ARS110 | [Creating a Full Project within SAP Ariba Guided Sourcing](official-courses/ars110-creating-a-full-project-within-sap-ariba-guided-sourcing.md) | APS1 · Sourcing |
+| ARS111 | [Creating Sourcing Events within SAP Ariba Guided Sourcing](official-courses/ars111-creating-sourcing-events-within-sap-ariba-guided-sourcing.md) | APS1 · Sourcing |
+| ARS112 | [Working with Pricing Tactics and Response Options within SAP Ariba Guided Sourcing](official-courses/ars112-working-with-pricing-tactics-and-response-options-within-sap-ariba-guided-sourcing.md) | APS1 · Sourcing |
+| ARS113 | [Project Monitoring and Event Administration within SAP Ariba Guided Sourcing](official-courses/ars113-project-monitoring-and-event-administration-within-sap-ariba-guided-sourcing.md) | APS1 · Sourcing |
+| ARS114 | [Creating Sourcing Reports within SAP Ariba Guided Sourcing](official-courses/ars114-creating-sourcing-reports-within-sap-ariba-guided-sourcing.md) | APS1 · Sourcing |
+| ARS222 | [Exploring Functionality for Direct Materials in SAP Ariba Sourcing](official-courses/ars222-exploring-functionality-for-direct-materials-in-sap-ariba-sourcing.md) | APS1 · Sourcing |
+| ARS345 | [Administering Functionality for Direct Materials in the SAP Ariba Strategic Sourcing Suite](official-courses/ars345-administering-functionality-for-direct-materials-in-the-sap-ariba-strategic-sourcing-suite.md) | APS1 · Sourcing |
+| ARX280 | [Managing Project Templates](../../shared-foundations/01-energy/official-courses/arx280-managing-project-templates.md) | Shared administration |
+| ARX290 | [Configuring a New Strategic Sourcing Realm](../../shared-foundations/01-energy/official-courses/arx290-configuring-a-new-strategic-sourcing-realm.md) | Shared administration |
+| ARS280 | [Managing Sourcing and Event Templates](official-courses/ars280-managing-sourcing-and-event-templates.md) | APS1 · Sourcing |
 
-The supplied sprint files above remain unchanged. These official course records provide additional learning references, not replacement sprint content.
+[15-course sourcing and contract discovery journey](../../learning-journeys/01-energy/discovering-procurement-sourcing-contract-management.md) · [Shared administration](../../shared-foundations/01-energy/README.md) · [Ariba Contracts](../../ASN3-applied-sap-ariba-contracts/01-energy/README.md) · [S/4HANA sourcing](../../sap-cloud-erp-sourcing-procurement/01-energy/README.md).
+
+Course records are reused across journeys. ARX280 remains in its existing shared location and ARX290 is recorded alongside shared Strategic Sourcing administration; folder optimization is deferred. Supplied sprint files remain unchanged.
