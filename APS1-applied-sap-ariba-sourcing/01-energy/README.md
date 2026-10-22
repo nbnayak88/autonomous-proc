@@ -111,3 +111,7 @@ Curious how these sourcing decisions connect to enterprise architecture? [Join a
 [15-course sourcing and contract discovery journey](../../learning-journeys/01-energy/discovering-procurement-sourcing-contract-management.md) · [Shared administration](../../shared-foundations/01-energy/README.md) · [Ariba Contracts](../../ASN3-applied-sap-ariba-contracts/01-energy/README.md) · [S/4HANA sourcing](../../sap-cloud-erp-sourcing-procurement/01-energy/README.md).
 
 Course records are reused across journeys. ARX280 remains in its existing shared location and ARX290 is recorded alongside shared Strategic Sourcing administration; folder optimization is deferred. Supplied sprint files remain unchanged.
+
+## Related advanced suite configuration journey
+
+[Configuring SAP Ariba Strategic Sourcing Suite — three courses](../../learning-journeys/01-energy/configuring-sap-ariba-strategic-sourcing-suite.md) covers deployment planning, test-site field configuration and configuration migration. The three records are maintained in shared Energy implementation, with links from this sourcing home.
