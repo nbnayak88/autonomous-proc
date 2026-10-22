@@ -28,3 +28,7 @@ Choose the format according to learner intent, depth, and expected output. A for
 - [SAP Ariba Sourcing — Energy sprints](APS1-applied-sap-ariba-sourcing/01-energy/README.md).
 
 Maintain one primary learning record per official course. Shared references use links rather than duplicated course content.
+
+## Energy — sourcing and contract discovery
+
+[Discovering Procurement — all 15 sourcing and contract courses](learning-journeys/01-energy/discovering-procurement-sourcing-contract-management.md) maps four Guided Sourcing courses, six Ariba Contracts courses, three S/4HANA courses and two shared courses. Each course has one primary Energy record; other pathways cross-link it.
