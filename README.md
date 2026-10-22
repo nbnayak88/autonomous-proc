@@ -40,3 +40,13 @@ Maintain one primary learning record per official course. Shared references use 
 ## Energy — Strategic Sourcing Suite configuration
 
 [Configuring SAP Ariba Strategic Sourcing Suite — three courses](learning-journeys/01-energy/configuring-sap-ariba-strategic-sourcing-suite.md): deployment planning, advanced field configuration and production configuration-migration learning, maintained in the existing shared Energy area.
+
+## Energy — Contracts, Supplier Management and reporting
+
+| Learning item | Status and primary map |
+|---|---|
+| Implementing SAP Ariba Contracts | [11 courses; existing course records reused](learning-journeys/01-energy/implementing-sap-ariba-contracts.md) |
+| Implementing SAP Ariba Supplier Management | [19 courses across lifecycle/performance, risk and shared areas](learning-journeys/01-energy/implementing-sap-ariba-supplier-management.md) |
+| Reporting in SAP Ariba solutions | [Planned ILT record; official course identity/schedule unconfirmed](ASP8-applied-sap-spend-control-tower-analytics-cloud/01-energy/planning/reporting-in-sap-ariba-solutions-ilt.md) |
+
+The repeated 15-course discovery journey is [reused unchanged](learning-journeys/01-energy/discovering-procurement-sourcing-contract-management.md). Course identity is keyed by SAP code; separate official codes with overlapping topics are retained and flagged for future review.
