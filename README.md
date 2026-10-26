@@ -50,3 +50,9 @@ Maintain one primary learning record per official course. Shared references use 
 | Reporting in SAP Ariba solutions | [Planned ILT record; official course identity/schedule unconfirmed](ASP8-applied-sap-spend-control-tower-analytics-cloud/01-energy/planning/reporting-in-sap-ariba-solutions-ilt.md) |
 
 The repeated 15-course discovery journey is [reused unchanged](learning-journeys/01-energy/discovering-procurement-sourcing-contract-management.md). Course identity is keyed by SAP code; separate official codes with overlapping topics are retained and flagged for future review.
+
+## Free 7-Day Procurement Origin Story Challenge
+
+[TagMango Level Up — The Origin Story: Procurement](challenges/the-origin-story/procurement-7-day-tagmango-level-up.md) includes the welcome post, seven beginner-friendly daily challenges, a final celebration, text-first submissions, 1970–2050 context and a gentle introduction to traceability. The coach appendix connects the original need with requirements, testing, go-live readiness and outcomes.
+
+[Explore the SuccessLabs Academy webinar](https://hub.successlabsacademy.com/web/checkout/694af8798dd872a219700dd3). The challenge is free; further learning is optional.
